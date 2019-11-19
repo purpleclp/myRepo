@@ -17,6 +17,7 @@ public class Demo1 {
 		System.out.println("123456");
 		System.out.println("111111");
 		System.out.println("v好好学习");
+		System.out.println("123456789");
 	}
 
 }
